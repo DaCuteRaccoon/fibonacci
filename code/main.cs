@@ -2,7 +2,6 @@ using System;
 
 public static int Fib(int n)
 {
-  
   // Edge cases:
   if (n < 0)
   {
