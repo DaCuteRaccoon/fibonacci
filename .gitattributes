@@ -1,0 +1,5 @@
+# * linguist-detectable
+# .replit linguist-language=TOML
+
+main.sh linguist-vendored
+docs/* linguist-detectable
